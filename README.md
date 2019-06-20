@@ -5,7 +5,7 @@ LDA is a method used in statistics, pattern recognition and machine learning to 
 
 ## Members
 * Maria Verna Aquino
-* Alex
+* Alexander Montenegro
 * Chris
 * 
 
